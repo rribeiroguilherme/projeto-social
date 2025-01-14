@@ -20,6 +20,7 @@ body {
 main {
     position: relative;
     height: 100vh;
+    width: 100vh;
 }
 
 
@@ -46,6 +47,7 @@ section#telefone {
 
 section#icones {
     text-align: right;
+    margin: 20px 0px 0px 50px;
 }
 
 section#icones img {
