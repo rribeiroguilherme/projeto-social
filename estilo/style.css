@@ -25,23 +25,23 @@ main {
 
 
 section#telefone {
-    margin: 0px 40px 0px 0px;
+    margin: 0px 40px 0px 0px    ;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 627px;
-    width: 311px;
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    height: 425px;
+    width: 211px;
+    background: url('../imagens/frame-iphone2.png') no-repeat;
 
 }
 
 #tela {
     position: relative;
-    top: 80px;
-    left: 22px;
-    height: 469px;
-    width: 265px;
+    top: 50px;
+    left: 14px;
+    height: 322px;
+    width: 182px;
 }
 
 section#icones {
